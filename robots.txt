@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mzh19861986-cpu.github.io/ai-writing-tools/sitemap.xml
